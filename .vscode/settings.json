@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "vector": "cpp",
+        "structure.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "cmake.sourceDirectory": "D:/projects/PROGRAMING/DynamicAnalysis/Source"
+}
